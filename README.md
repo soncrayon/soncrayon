@@ -1,12 +1,8 @@
-### Hey! 👋 
+I'm a software engineer and recovering lawyer coding in HTML, CSS, Ruby, Ruby on Rails, JavaScript, and React. I'm currently working on a series of CSS Art projects where I try to recreate some of my favorite artwork using only CSS.  I'm also planning to build a few business applications-- (1) a document review and tagging application based on a MERN platform, making use of MongoDB, Express, React, and Node, (2) a task management application built with React plus a Rails API, and (3) an application aimed at auditing open source software for third-party licenses, incorporating Python and SQL.  
 
-I'm a software engineer and recovering lawyer.  After spending a few years practicing law, I realized I was drawn to those parts of my job where I was working with technology and data.  So I left the law and I started my journey into software development. My primary stack is HTML, CSS, Ruby, Ruby on Rails, JavaScript, and React, although I'm always open to learning new technologies.  I'm currently working on a series of CSS Art projects where I try to recreate some of my favorite artwork using only CSS.  I'm also building a secondary/post-secondary ed application with React and Redux called classpoint. It will be a one-stop repository for course listings, class scheduling, and grades.  
+I try to blog fairly often about my projects and you can find those here: https://arnold-curtis.medium.com/ 
 
-I try to blog fairly often about my projects and you can find those [here--linktomedium]. 
-
-You can find demos and hosted versions of my projects on my website at [curtisarnold.com].  
-
-And finally, feel free to drop me a line on LinkeIn [linktolinkein].  
+Feel free to drop me a line on LinkedIn: https://www.linkedin.com/in/curtis-arnold-jr/ 
 
 <!--
 **soncrayon/soncrayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
